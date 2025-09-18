@@ -20,4 +20,48 @@ This project is a smart deadbolt lock that provides secure access control, and i
 
 ## 2. High Level Design
 
+**Block Diagram**
+
+![Block Diagram](./docs/block_diagram.jpeg)
+**Decision:** Incorporating RFID 
+
+**Reasoning:** Convenient and safe security measure for modular locking and unlocking system
+
+**Decision:** Incorporating Keypad
+
+**Reasoning:** Efficient alternative to RFID if user doesn't have proper RFID credentials
+
+**Decision:** Incorporating GUI
+
+**Reasoning:** Efficient method of interaction between user and modular system
+
+**Decision:**
+
+**Reasoning:**
+
+---
+
+## 3. Hardware Design
+
+**Decision:** Using Arduino Uno microcrontoller
+
+**Reasoning:** Provides sufficient amount of i/o pins, effective physical size for design
+
+---
+
+## 4. Software Design
+
 **Decision:** 
+
+**Reasoning:** 
+
+---
+
+## 5. Enclosure 
+
+**Decision:**
+
+**Reasoning:**
+
+
+
