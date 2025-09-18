@@ -1,4 +1,4 @@
-## Project Tasks - Smart Deadbolt Lock
+# Project Tasks - Smart Deadbolt Lock
 
 ---
 
