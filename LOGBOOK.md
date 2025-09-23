@@ -31,4 +31,9 @@
 **11:16 PM** 
 - Determining the type of microcontroller to use, due to the need of additional I/O pins from Arduino UNO R3
 - Determining voltage regulation required to operate RFID
+- Utiize AdaFruit to look into I2C's that will support RFID network
+
+--- 
+
+
 
