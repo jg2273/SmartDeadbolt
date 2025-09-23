@@ -8,8 +8,12 @@ This project is a smart deadbolt lock that provides secure access control, and i
 
 ## Purpose
 
-This product provides the user with a convenient way of securing and accessing facilities through a user-friendly interface, allowing the deadbolt to be locked and unlocked through something you may have (RFID Scanner), or something you may know (keypad code), similar to MFA protocols used in cybersecurity operations. 
+This product provides the user with a convenient way of securing and accessing facilities through a user-friendly interface, allowing the deadbolt to be locked and unlocked through something you may have (RFID Scanner), or something you may know (keypad code), similar to MFA protocols used in cybersecurity operations. For example, some users would prefer not carrying around keys, and instead, would rather know a passcode to access a secured area. In addition, some may want to give others access to a secured area without having to meet them physically to give them keys, which is why the keypad code would provide a seamless access. Additionally, a concern would be giving someone temporary access to the secured area, which is why the RFID reader is also a considerable feature.
 
+## Communication
 
+This repository will serve as as a direct means of documentation as well as communication about the project, including a logbook where all changes, decisions, and contributions will be documented. 
+
+## 
 
 
