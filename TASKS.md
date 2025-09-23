@@ -22,6 +22,7 @@
 | Task                                      | Status    | Priority |
 |-------------------------------------------|-----------|----------|
 | Determine the type of board to use        |    🔧     |    🔺    |
+| Determine component selection             |    ✅ |        🔺     |
 
 --- 
 
