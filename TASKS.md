@@ -23,9 +23,11 @@
 |-------------------------------------------|-----------|----------|
 | Create Block Diagram | ✅ | 🔺
 | Determine the type of board to use | 🔧 | 🔺 |
+| Determine sufficient breakout boards | 🔧 | 🔺
 | Create electronic schematic   | ⏳ | 🔺|
-| Select appropriate components | ✅ | 🔺 |
+| Select appropriate components | 🔧 | 🔺 |
 | Create works-like breadboard/uC prototype | ⏳ | 🔶 |
+
 
 
 --- 
@@ -34,6 +36,10 @@
 | Task                                      | Status    | Priority |
 |-------------------------------------------|-----------|----------|
 | Program works-like prototype | ⏳ | 🔶 |
+| Create KiCad replica of schematic | ⏳ | 🔶 |
+| Translate KiCad Schematic to PCB | ⏳ | 🔷 |
+
+
 
 
 ## Project Management 
