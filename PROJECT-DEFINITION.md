@@ -8,4 +8,8 @@ This project is a smart deadbolt lock that provides secure access control, and i
 
 ## Purpose
 
-This product provides the user with  
+This product provides the user with a convenient way of securing and accessing facilities through a user-friendly interface, allowing the deadbolt to be locked and unlocked through something you may have (RFID Scanner), or something you may know (keypad code), similar to MFA protocols used in cybersecurity operations. 
+
+
+
+
