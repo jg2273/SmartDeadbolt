@@ -30,6 +30,5 @@
 
 **11:16 PM** 
 - Determining the type of microcontroller to use, due to the need of additional I/O pins from Arduino UNO R3
-  
--Determining voltage regulation required to operate RFID
+- Determining voltage regulation required to operate RFID
 
