@@ -30,9 +30,17 @@ To ensure user-friendly installation, the most common and standardized deadbolt 
 
 **Total Weight:** 2.5lbs and under
 
-## Life Cycle
+## Operational
 
-**Programming:** To ensure 
+**Duty Cycle:** To ensure a convinient design, battery would generally have to be changed every 6 to 12 months, however, varying significantly based on usage.
+
+## Environment
+
+The deadbolt mechanism and other components will be designed to be weatherproof, as locks may have significant outdoor applications. Extreme temperatures may be a concern as they may affect electrical resistance or integrity of material. 
+
+
+
+
 
 
 
