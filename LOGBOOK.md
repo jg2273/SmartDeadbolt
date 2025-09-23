@@ -6,6 +6,7 @@
 
 **10:00 AM** 
 - Create and submit high-level block diagram
+  
 **12:00 PM** 
 - Meeting after class about improvements
 - Decided on LCD and LED outputs for user interface
