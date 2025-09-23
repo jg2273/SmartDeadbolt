@@ -21,7 +21,7 @@
 
 | Task                                      | Status    | Priority |
 |-------------------------------------------|-----------|----------|
-
+| Determine the type of board to use        |    🔧     |    🔺    |
 
 --- 
 
