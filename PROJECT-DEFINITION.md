@@ -21,9 +21,13 @@ This repository will serve as as a direct means of documentation as well as comm
 ## Parameters 
 
 To ensure user-friendly installation, the most common and standardized deadbolt size will be considered when creating the enclosure and latch. 
+
 **Cross Bore Diameter:** 2-1/8"
+
 **Backset:** 2-3/8"
+
 **Latch Bore Diameter:** 1" 
+
 **Total Weight:** 2.5lbs and under
 
 
