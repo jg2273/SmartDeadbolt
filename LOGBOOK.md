@@ -10,6 +10,7 @@
 **12:00 PM** 
 - Meeting after class about improvements
 - Decided on LCD and LED outputs for user interface
+- Scrapped the idea of traditional key modifications and FSR's (too complicated)
 
 ---
 
