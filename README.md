@@ -35,6 +35,7 @@ This project was built by:
 - Kevin De Dios
 - Ali Mammoun
 - Joshua Greene
+
 Please give us credit if you use this project in your own builds.
 
 📜 License
