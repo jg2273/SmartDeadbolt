@@ -45,3 +45,7 @@
 ## Project Management 
 | Task                                      | Status    | Priority |
 |-------------------------------------------|-----------|----------|
+| Submit project block diagram | ✅ | 🔺 |
+| Submit project environment | ✅ | 🔺 |
+| Submit project components | ✅ | 🔺 |
+| Monday Meeting | ⏳ | 🔶 |
