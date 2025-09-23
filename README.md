@@ -1,5 +1,5 @@
-🔐 Smart Deadbolt Lock
-
+#🔐 Smart Deadbolt Lock
+---
 A collaborative project by Group KAJ
 This repository contains the source code for a Smart Deadbolt Lock system designed with both RFID authentication and a keypad entry system. It uses a servo motor to control locking/unlocking, while LED indicators and a buzzer provide user feedback.
 
