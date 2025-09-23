@@ -16,7 +16,7 @@ This repository will serve as as a direct means of documentation as well as comm
 
 ## Scenarios
 
-**User Interface:** The product would contain an RFID reader and programmed card for user input, a keypad for user input, a deadbolt latch, an LCD screen to output messages to a user, a buzzer to accompany ouput messages with sounds, a removable/changable battery, LEDs to indicate battery level, and all of this would be enclosed to fit a standardized door and latch size.
+**User Interface:** The product would contain an RFID reader and programmed card for user input, a keypad for user input, a deadbolt latch, an LCD screen to output messages to a user, a buzzer to accompany ouput messages with sounds, a removable/changable battery, LEDs to indicate battery level, a servo motor system used to move the latch (to lock and unlock deadbolt), and all of this would be enclosed to fit a standardized door and latch size.
 
 ## Parameters 
 
