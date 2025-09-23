@@ -44,4 +44,4 @@ This project is licensed under an Open Source License with the following conditi
 
 📬 Contact
 For inquiries, contributions, or collaborations, reach out via GitHub issues or email:
-Email : kd444@njit.edu
+ Email : kd444@njit.edu
