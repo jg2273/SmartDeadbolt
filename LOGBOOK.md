@@ -22,6 +22,7 @@
 ---
 
 ## Sept. 22, 2025
+**10:00 AM**
 - Create and submit major component selection
   
 ---
