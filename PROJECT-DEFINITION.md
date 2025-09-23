@@ -30,6 +30,12 @@ To ensure user-friendly installation, the most common and standardized deadbolt 
 
 **Total Weight:** 2.5lbs and under
 
+## Life Cycle
+
+**Programming:** To ensure 
+
+
+
 
 
 
