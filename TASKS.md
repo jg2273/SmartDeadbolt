@@ -21,14 +21,19 @@
 
 | Task                                      | Status    | Priority |
 |-------------------------------------------|-----------|----------|
-| Determine the type of board to use        |    🔧     |    🔺    |
-| Determine component selection             |    ✅     |        🔺     |
+| Create Block Diagram | ✅ | 🔺
+| Determine the type of board to use | 🔧 | 🔺 |
 | Create electronic schematic   | ⏳ | 🔺|
+| Select appropriate components | ✅ | 🔺 |
+| Create works-like breadboard/uC prototype | ⏳ | 🔶 |
+
+
 --- 
 
 ## Software
 | Task                                      | Status    | Priority |
 |-------------------------------------------|-----------|----------|
+| Program works-like prototype | ⏳ | 🔶 |
 
 
 ## Project Management 
