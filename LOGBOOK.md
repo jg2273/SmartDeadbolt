@@ -36,5 +36,12 @@
 
 --- 
 
+## Sept 30, 2025
+
+**11:50 PM**
+- Created unit tests for various modules throughout the project schematic
+- Created hierarchical sheets within Kicad for the schematic
+
+---
 
 
