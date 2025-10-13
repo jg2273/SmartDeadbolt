@@ -59,6 +59,11 @@ This project is a smart deadbolt lock that provides secure access control, and i
 
 **Reasoning:** Simplest and most universal way to program microcontroller
 
+**Decision:** Keypad Library for Arduino IDE
+
+**Reasoning:** Preset Keypad Library created to program Adafruit Keypad 
+https://learn.adafruit.com/matrix-keypad/arduino#install-keypad-library-3060387
+
 
 ---
 
