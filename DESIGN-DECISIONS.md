@@ -35,25 +35,29 @@ This project is a smart deadbolt lock that provides secure access control, and i
 
 **Reasoning:** Efficient method of interaction between user and modular system
 
-**Decision:**
-
-**Reasoning:**
-
 ---
 
 ## 3. Hardware Design
 
-**Decision:** Using Arduino Uno microcrontoller
+**Decision:** Using Arduino Mega microcrontoller
 
 **Reasoning:** Provides sufficient amount of i/o pins, effective physical size for design
+
+**Decision:** 3x4 Matrix Number Pad
+
+**Reasoning:** Provides a robust design, less i/o pins required compared to others, numbers & 2 symbols only https://www.adafruit.com/product/3845
+
+
+**Decision:** 
 
 ---
 
 ## 4. Software Design
 
-**Decision:** 
+**Decision:** Using Arduino IDE to program microcontroller
 
-**Reasoning:** 
+**Reasoning:** Simplest and most universal way to program microcontroller
+
 
 ---
 
