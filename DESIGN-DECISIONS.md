@@ -49,7 +49,10 @@ This project is a smart deadbolt lock that provides secure access control, and i
 
 ![NumPad Pinout](./docs/3845_Diagram.jpg)
 
-**Decision:** 
+**Decision:** 16x2 LCD Display
+
+**Reasoning:** Cheap and effective way of presenting GUI, takes 16 pins on microcontroller
+https://www.vishay.com/docs/37484/lcd016n002bcfhet.pdf
 
 ---
 
@@ -73,5 +76,10 @@ https://learn.adafruit.com/matrix-keypad/arduino#install-keypad-library-3060387
 
 **Reasoning:**
 
+## 6. Project Management
+
+**Decision:** Testing project in Makerspace and FMH Electronics Labs
+
+**Reasoning:** Easy access and flexible schedule for all group memebers to contribute to projec
 
 
