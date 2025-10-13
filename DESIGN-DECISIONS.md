@@ -46,6 +46,7 @@ This project is a smart deadbolt lock that provides secure access control, and i
 **Decision:** 3x4 Matrix Number Pad
 
 **Reasoning:** Provides a robust design, less i/o pins required compared to others, numbers & 2 symbols only https://www.adafruit.com/product/3845
+
 ![NumPad Pinout](.docs/3845_Diagram.jpeg)
 
 **Decision:** 
