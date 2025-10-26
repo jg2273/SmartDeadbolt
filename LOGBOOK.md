@@ -54,11 +54,22 @@
 - Keypad programmed to actiavte LCD output when input is detected, and replaced the push-button switches to activate servo
 
 ---
+## October 10, 2025
+
+- Locking mechanism designed and 3D printed
+
+---
 
 ## October 11, 2025
 
 - RFID troubleshooting (finding UID of our tags), resolved by opening wiring RFID and running serial monitor while scanning tag 
 - RFID unit test complete
 - RFID programmed to work as alternative to keypad, and also activate servo when scanned tag UID matches the UID in code
+
+---
+
+## October 14, 2025
+
+- RFID troubleshooting, specific pins were programmed to have specific functions, RFID was not wired to those pins, and did not work, resolved
 
 ---
