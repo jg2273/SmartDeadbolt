@@ -72,9 +72,9 @@ https://learn.adafruit.com/matrix-keypad/arduino#install-keypad-library-3060387
 
 ## 5. Enclosure 
 
-**Decision:**
+**Decision:** Made prototype enclosure from using wood-laser cutting 
 
-**Reasoning:**
+**Reasoning:** Robust/sturdy enclosure, for environmental purposes
 
 ## 6. Project Management
 
