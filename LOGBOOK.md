@@ -73,3 +73,35 @@
 - RFID troubleshooting, specific pins were programmed to have specific functions, RFID was not wired to those pins, and did not work, resolved
 
 ---
+
+## December 1, 2025
+
+- Began PCB design: implementing bare ATmega2560, programmer, voltage regulation, buzzer, RGB LED, headers for servo, RFID, keypad, LCD
+- Using 4 AA batteries due to proper headspace for running ATmega and other components at 5V after regulation
+- Implemented buck-boost converter for high efficiency in stepping down 6-6.5V to 5V
+
+---
+
+## December 4, 2025
+
+- Implemented linear regulator (LDO) from 5V regulation to power RFID, since it runs at 3.3V, used linear regulator and not another due to RFID noise sensitivity, and low-noise output from linear regulation
+- Used level switcher to convert 5V communiation ouputs from ATmega to 3.3V for RFID
+
+---
+
+## December 6, 2025
+
+- Designed enclosure for prototype through wood-cutting
+- Implemented level-switcher onto physical prototype
+
+---
+
+## December 7, 2025
+
+- In PCB design, used bottom layer as ground plane, as well as ran vias from top to bottom for decoupling capacitors
+
+---
+
+## December 18, 2025
+
+- Project report developed, project complete
