@@ -54,6 +54,14 @@ This project is a smart deadbolt lock that provides secure access control, and i
 **Reasoning:** Cheap and effective way of presenting GUI, takes 16 pins on microcontroller
 https://www.vishay.com/docs/37484/lcd016n002bcfhet.pdf
 
+**Decision:** RC522 RFID Module
+
+**Reasoning:** Cheapest option for RFID incorporation, considered using 5V RFID options, since rest of board runs at 5V, significantly more expensive than RC522, will find workaround to compensate
+
+**Decision:** Common Anode RGB LED
+
+**Reasoning:** Decided to go with an RGB LED instead of 2+ individual LEDs since it takes up less pins, can add additional status indications as well
+
 ---
 
 ## 4. Software Design
@@ -76,10 +84,26 @@ https://learn.adafruit.com/matrix-keypad/arduino#install-keypad-library-3060387
 
 **Reasoning:** Robust/sturdy enclosure, for environmental purposes
 
+---
+
 ## 6. Project Management
 
 **Decision:** Testing project in Makerspace and FMH Electronics Labs
 
 **Reasoning:** Easy access and flexible schedule for all group memebers to contribute to projec
 
+--- 
 
+## 6. PCB Design
+
+**Decision:** Using bottom plane of PCB for ground / decoupling capacitors
+
+**Reasoning:** Allows for a more modular design, easy troubleshooting and reduction of potential ground loops
+
+**Decision:** Using 0805 size for surface mounted components (R/L/C)
+
+**Reasoning:** Allows for a dense PCB design, cheap
+
+**Decision:** 
+
+**Reasoning:** 
