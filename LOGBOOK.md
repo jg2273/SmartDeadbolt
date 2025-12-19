@@ -112,3 +112,14 @@
 ## December 18, 2025
 
 - Project report developed, project complete
+
+--- 
+
+##Major Takeaways
+
+- Arduino Uno can be configured to have additional pins using i/o expanders, which use I2C (SDA, SCL). However, we opted to use the Arduino Mega, which uses the ATmega2560, and comes with 50 total more i/o pins
+- Unit testing: this is the most efficient and optimized way to conduct rapid prototyping. Using unit testing, we finished the majority of our project within the span of a week
+- RFID troubleshooting skills: Programming the receiver to respond to specific UID provided
+- A 9V battery is not optimal for high current in embedded design. With a capacity  of 400-600 mAh at low current, the entire system browns out with high load like servo active in short spans. Due to the high demand, it pulls voltage supply down which browns out the Arduino and other components. For applications similar to ours, 4x AA battery supply is optimal, due to its ability to deliver current better as a result of a lower internal resistance in the batteries.
+- Buck-boost converters paired with LDO linear regulators is a reliable power distribution network within most applications, and buck converters are much more efficient than LDOs.
+
