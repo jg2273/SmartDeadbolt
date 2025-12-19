@@ -68,6 +68,13 @@
 
 ---
 
+## October 9, 2025
+
+- 9V battery setup does not supply sufficient current to operate the entire design
+- While operating on 9V battery, when servo activates, it draws too much current which makes other components have unexpected behavior
+- Researching other possible power sources that fit project definition constraints
+  
+---
 ## October 14, 2025
 
 - RFID troubleshooting, specific pins were programmed to have specific functions, RFID was not wired to those pins, and did not work, resolved
