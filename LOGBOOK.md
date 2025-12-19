@@ -115,7 +115,7 @@
 
 --- 
 
-##Major Takeaways
+# Major Takeaways
 
 - Arduino Uno can be configured to have additional pins using i/o expanders, which use I2C (SDA, SCL). However, we opted to use the Arduino Mega, which uses the ATmega2560, and comes with 50 total more i/o pins
 - Unit testing: this is the most efficient and optimized way to conduct rapid prototyping. Using unit testing, we finished the majority of our project within the span of a week
